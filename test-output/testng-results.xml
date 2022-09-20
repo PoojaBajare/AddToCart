@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-20T17:23:07 IST" name="Suite" finished-at="2022-09-20T17:23:56 IST" duration-ms="49136">
+    <groups>
+    </groups>
+    <test started-at="2022-09-20T17:23:07 IST" name="Test" finished-at="2022-09-20T17:23:56 IST" duration-ms="49136">
+      <class name="TestCases.VerifyProductTestCase">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:TestCases.VerifyProductTestCase@3e58a80e]" started-at="2022-09-20T17:23:25 IST" name="launchbrowser" finished-at="2022-09-20T17:23:34 IST" duration-ms="8576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="search()[pri:0, instance:TestCases.VerifyProductTestCase@3e58a80e]" started-at="2022-09-20T17:23:34 IST" name="search" finished-at="2022-09-20T17:23:56 IST" duration-ms="22802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+      </class> <!-- TestCases.VerifyProductTestCase -->
+      <class name="TestCases.VerifyMyRegistrationTestCase">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:TestCases.VerifyMyRegistrationTestCase@40ef3420]" started-at="2022-09-20T17:23:07 IST" name="launchbrowser" finished-at="2022-09-20T17:23:11 IST" duration-ms="4184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="register()[pri:0, instance:TestCases.VerifyMyRegistrationTestCase@40ef3420]" started-at="2022-09-20T17:23:11 IST" name="register" finished-at="2022-09-20T17:23:25 IST" duration-ms="13546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+      </class> <!-- TestCases.VerifyMyRegistrationTestCase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
